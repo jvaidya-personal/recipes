@@ -1,0 +1,53 @@
+{
+  "id": 24,
+  "title": "Fruit Drinks",
+  "coming_soon": false,
+  "ingredients": [
+    {
+      "section": "Custard Apple Milkshake"
+    },
+    {
+      "amount": "3",
+      "measure": "Cup",
+      "ingredient": "Sapota (Custard apple) pulp",
+      "comment": "canned, unsweetened"
+    },
+    {
+      "amount": "2",
+      "measure": "Cup",
+      "ingredient": "Milk",
+      "comment": null
+    },
+    {
+      "amount": "1/2",
+      "measure": "Cup",
+      "ingredient": "Sugar",
+      "comment": null
+    },
+    {
+      "section": "Mango Lassi"
+    },
+    {
+      "amount": "2",
+      "measure": "Cup",
+      "ingredient": "(approx) Mango pulp,",
+      "comment": "canned, sweetened"
+    },
+    {
+      "amount": "2",
+      "measure": "Cup",
+      "ingredient": "Yoghurt",
+      "comment": null
+    },
+    {
+      "amount": "1",
+      "measure": "Cup",
+      "ingredient": "water or water with ice",
+      "comment": null
+    }
+  ],
+  "steps": [
+    "Place ingredients in a blender and mix."
+  ],
+  "source_file": "src/data/rw/recipe_24.json"
+}

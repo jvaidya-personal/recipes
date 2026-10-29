@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "title": "Sambar - Dal #4 - South Indian Dal soup - this recipe to be added later",
+  "coming_soon": true,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "measure": "Cup",
+      "ingredient": "toor dal",
+      "comment": null
+    },
+    {
+      "amount": "10",
+      "measure": "Count",
+      "ingredient": "Curry Leaves",
+      "comment": null
+    },
+    {
+      "amount": "2",
+      "measure": "T.",
+      "ingredient": "Mustard Seed",
+      "comment": null
+    },
+    {
+      "amount": "2",
+      "measure": "Cup",
+      "ingredient": "onions",
+      "comment": "sliced lengthwise"
+    }
+  ],
+  "steps": [
+    "Pressure cook the toor dal, or simmer it for 1 hour."
+  ],
+  "source_file": "src/data/rw/recipe_7.json"
+}
